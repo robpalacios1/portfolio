@@ -1,0 +1,28 @@
+.container {
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.skills {
+    margin-top: 20px;
+    margin: auto;
+    text-align: center;
+    text-justify: auto;
+}
+
+.card__deck {
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.card {
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 4px;
+}
