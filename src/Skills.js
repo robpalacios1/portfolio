@@ -1,6 +1,7 @@
 import React from 'react'
 import './Skills.css'
 import { Card, CardDeck, Button } from 'react-bootstrap';
+import ProgressSuccess from './ProgressSuccess';
 
 function Skills() {
     return (
@@ -17,11 +18,7 @@ function Skills() {
                         </Card.Body>
                         
                         <Card.Footer>
-                            <meter className="meter"
-                                min="0" max="100"
-                                low="30" high="50"
-                                value="100">
-                            </meter>
+                            <ProgressSuccess/>
                         </Card.Footer>
                         <Button variant="outline-success">Success</Button>{' '}
                     </Card>
@@ -34,11 +31,7 @@ function Skills() {
                             </Card.Text>
                         </Card.Body>
                         <Card.Footer>
-                            <meter className="meter"
-                                min="0" max="100"
-                                low="30" high="50"
-                                value="100">
-                            </meter>
+                            <ProgressSuccess/>
                         </Card.Footer>
                         <Button variant="outline-success">Success</Button>{' '}
                     </Card>
@@ -51,11 +44,7 @@ function Skills() {
                             </Card.Text>
                         </Card.Body>
                         <Card.Footer>
-                            <meter className="meter"
-                                min="0" max="100"
-                                low="30" high="50"
-                                value="100">
-                            </meter>
+                            <ProgressSuccess/>
                         </Card.Footer>
                         <Button variant="outline-success">Success</Button>{' '}
                     </Card>
@@ -70,11 +59,7 @@ function Skills() {
                             </Card.Text>
                         </Card.Body>
                         <Card.Footer>
-                            <meter className="meter"
-                                min="0" max="100"
-                                low="30" high="50"
-                                value="100">
-                            </meter>
+                            <ProgressSuccess/>
                         </Card.Footer>
                         <Button variant="outline-success">Success</Button>{' '}
                     </Card>
@@ -87,11 +72,7 @@ function Skills() {
                             </Card.Text>
                         </Card.Body>
                         <Card.Footer>
-                            <meter className="meter"
-                                min="0" max="100"
-                                low="30" high="50"
-                                value="100">
-                            </meter>
+                            <ProgressSuccess/>
                         </Card.Footer>
                         <Button variant="outline-success">Success</Button>{' '}
                     </Card>
@@ -104,11 +85,7 @@ function Skills() {
                             </Card.Text>
                         </Card.Body>
                         <Card.Footer>
-                            <meter className="meter"
-                                min="0" max="100"
-                                low="30" high="50"
-                                value="100">
-                            </meter>
+                            <ProgressSuccess/>
                         </Card.Footer>
                         <Button variant="outline-success">Success</Button>{' '}
                     </Card>
@@ -123,11 +100,7 @@ function Skills() {
                             </Card.Text>
                         </Card.Body>
                         <Card.Footer>
-                            <meter className="meter"
-                                min="0" max="100"
-                                low="30" high="50"
-                                value="100">
-                            </meter>
+                            <ProgressSuccess/>
                         </Card.Footer>
                         <Button variant="outline-success">Success</Button>{' '}
                     </Card>
@@ -140,11 +113,7 @@ function Skills() {
                             </Card.Text>
                         </Card.Body>
                         <Card.Footer>
-                            <meter className="meter"
-                                min="0" max="100"
-                                low="30" high="50"
-                                value="100">
-                            </meter>
+                            <ProgressSuccess/>
                         </Card.Footer>
                         <Button variant="outline-success">Success</Button>{' '}
                     </Card>
@@ -157,11 +126,7 @@ function Skills() {
                             </Card.Text>
                         </Card.Body>
                         <Card.Footer>
-                            <meter className="meter"
-                                min="0" max="100"
-                                low="30" high="50"
-                                value="100">
-                            </meter>
+                            <ProgressSuccess/>
                         </Card.Footer>
                         <Button variant="outline-success">Success</Button>{' '}
                     </Card>
@@ -176,11 +141,7 @@ function Skills() {
                             </Card.Text>
                         </Card.Body>
                         <Card.Footer>
-                            <meter className="meter"
-                                min="0" max="100"
-                                low="30" high="50"
-                                value="100">
-                            </meter>
+                            <ProgressSuccess/>
                         </Card.Footer>
                         <Button variant="outline-success">Success</Button>{' '}
                     </Card>
@@ -193,11 +154,7 @@ function Skills() {
                             </Card.Text>
                         </Card.Body>
                         <Card.Footer>
-                            <meter className="meter"
-                                min="0" max="100"
-                                low="30" high="50"
-                                value="100">
-                            </meter>
+                            <ProgressSuccess/>
                         </Card.Footer>
                         <Button variant="outline-success">Success</Button>{' '}
                     </Card>
@@ -210,11 +167,7 @@ function Skills() {
                             </Card.Text>
                         </Card.Body>
                         <Card.Footer>
-                            <meter className="meter"
-                                min="0" max="100"
-                                low="30" high="50"
-                                value="100">
-                            </meter>
+                            <ProgressSuccess/>
                         </Card.Footer>
                         <Button variant="outline-success">Success</Button>{' '}
                     </Card>
