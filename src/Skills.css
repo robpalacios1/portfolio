@@ -5,8 +5,38 @@
     padding-bottom: 20px;
 }
 
-h2 {
+.img {
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 5px;
+    border-radius: 50%;
+}
+
+.card__title{
     text-align: center;
+    padding-top: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.card__title__nextjs {
+    padding-top: 40px;
+}
+
+.card__title__gatsby {
+    padding-top: 100px ;
+}
+
+.card__title__node{
+    padding-top: 50px;
+}
+
+.card__title__python{
+   padding-top: 50px;
+}
+
+.card__title__jquery{
+    padding-top: 50px;
 }
 
 .skills {
