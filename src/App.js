@@ -5,6 +5,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 import 'semantic-ui-css/semantic.min.css'
 import Content from './Content';
 import Skills from './Skills'
+import Portfolio from './Portfolio';
 
 
 function App() {
@@ -13,7 +14,7 @@ function App() {
       <Header />
       <Content />
       <Skills />
-
+      <Portfolio />
     </div>
   );
 }
